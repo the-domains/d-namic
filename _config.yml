@@ -1,7 +1,7 @@
 name: d-namic
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6256768221501261
+typography_spectrum: 0.1305
 title: 'd-namic incubator&accelerator'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9053116722498089
-  lightness: 0.8024348062463105
-  saturation: 0.04753103363327682
-  rhythmicContrast: 0.9318961470853537
+    - '#ff9300'
+    - '#ff0000'
+    - '#ff8000'
+    - '#ff4000'
+    - '#ff5500'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
