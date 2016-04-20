@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T17:05:35.490Z'
-dateModified: '2016-04-19T17:03:32.096Z'
+datePublished: '2016-04-20T07:20:39.265Z'
+dateModified: '2016-04-19T17:06:25.024Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-19-disamina-di-uno-s-creator-e-dei-suoi-imperdonabili-errori-r.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-disamina-di-uno-s-creator-e-dei-suoi-imperdonabili-errori-r.md
-published: true
 url: disamina-di-uno-s-creator-e-dei-suoi-imperdonabili-errori-r/index.html
 _type: Article
 
