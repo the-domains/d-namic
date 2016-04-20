@@ -1,6 +1,6 @@
 name: d-namic
 favicon: null
-layout_spectrum: 0.25337
+layout_spectrum: 1
 typography_spectrum: 0.1305
 title: 'd-namic incubator&accelerator'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ff8000'
     - '#ff4000'
     - '#ff5500'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 1
-  saturation: 0.625
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
